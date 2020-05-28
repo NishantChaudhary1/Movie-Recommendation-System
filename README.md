@@ -5,6 +5,7 @@ This is my *capstone project* of the *"Java Programming and Software Engineering
 ## Run this project [HERE!](https://www.dukelearntoprogram.com//capstone/recommender.php?id=xqsLtSbzOkCgjA)
 > The interface is offered by Duke University.
 
+
 <b>I recommend movies based on the similarity of ratings the user gave and those of professional raters gave on IDMB, which is to say, you are more likely to share taste with the raters who rate movies like you do. Then what movies to be recommeded are those the similar raters think very highly of.</b>
 
 ## Steps:
@@ -23,4 +24,4 @@ This is my *capstone project* of the *"Java Programming and Software Engineering
 ![Recommended movie list for user](/img/Recommendadtion.png)
 
 
-## [Certificate of completion](https://www.coursera.org/account/accomplishments/certificate/EM3NHLPD6CPE)
+## [Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/EM3NHLPD6CPE)
